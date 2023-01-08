@@ -1,10 +1,8 @@
-# 👋 Hi there! I'm @billxbf
+# 👋 Hi there! I'm Bill Xu 
 
 > Available for hiring! Feel free to contact me if you're interested.
 
-![:akarachen](https://count.getloli.com/get/@akarachen)
-
-![](https://github-readme-stats.vercel.app/api?username=akarachen)
+![](https://github-readme-stats.vercel.app/api?username=billxbf)
 
 ## My Tech Stack
 
