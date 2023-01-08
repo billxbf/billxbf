@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hi there! I'm @AkaraChen
 
-<!--
-**billxbf/billxbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Available for hiring! Feel free to contact me if you're interested.
 
-Here are some ideas to get you started:
+![:akarachen](https://count.getloli.com/get/@akarachen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=akarachen)
+
+## My Tech Stack
+
+### Language & Framework
+
+![Language & Framework](https://skillicons.dev/icons?i=ts,go,css,py,vue,nuxtjs,react,nextjs,lit,tailwind,bootstrap)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=vite,rollup,webpack,nodejs,mysql,git,py,jest,vercel,cloudflare,github)
+
+### Want to learn
+
+![Want to learn](https://skillicons.dev/icons?i=rust,apollo,cpp,deno,docker,graphql,kubernetes,nginx,reactivex,regex,tauri)
