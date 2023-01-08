@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Bill Xu 
 
-> Available for hiring! Feel free to contact me if you're interested.
+> Currently working at eBay as an Applied Scientist, building merch recommender systems.
+> Trying to infuse life with sweets from AI. 
 
 ![](https://github-readme-stats.vercel.app/api?username=billxbf)
 
@@ -8,7 +9,7 @@
 
 ### Language & Framework
 
-![Language & Framework](https://skillicons.dev/icons?i=ts,go,css,py,vue,nuxtjs,react,nextjs,lit,tailwind,bootstrap)
+![Language & Framework](https://skillicons.dev/icons?i=py,scala,java,js,cs,html,css,pytorch,tensorflow,maven,vue)
 
 ### Tools
 
