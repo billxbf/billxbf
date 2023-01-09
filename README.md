@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Binfeng Xu 
 
-> Currently working at eBay as an Applied Scientist, building merch recommender systems.
-> 
 
 ![](https://github-readme-stats.vercel.app/api?username=billxbf)
 
