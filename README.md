@@ -1,8 +1,7 @@
-# 👋 Hi there! I'm Bill Xu 
+# 👋 Hi there! I'm Binfeng Xu 
 
 > Currently working at eBay as an Applied Scientist, building merch recommender systems.
 > 
-> Infusing life with sweets from AI. 
 
 ![](https://github-readme-stats.vercel.app/api?username=billxbf)
 
