@@ -10,7 +10,7 @@
 
 ### Language & Framework
 
-![Language & Framework](https://skillicons.dev/icons?i=py,scala,java,js,cs,html,css,pytorch,tensorflow,maven,vue,)
+![Language & Framework](https://skillicons.dev/icons?i=py,scala,java,js,cs,html,css,pytorch,tensorflow,maven,vue)
 
 ### Tools
 
