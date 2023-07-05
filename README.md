@@ -3,6 +3,6 @@
 </div>
     
     self._build_gentopia()
-    > > > > > > _ _ _ _  
+    > > > > > > > _ _ _  
     self._cyberpsychosis()
     > > > > _ _ _ _ _ _  
