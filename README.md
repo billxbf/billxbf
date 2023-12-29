@@ -2,7 +2,7 @@
   <img height=400 width=1000 src='https://github.com/billxbf/billxbf/blob/main/arasaka_bkgd.jpg?raw=true' />
 </div>
 
-***Recent stuff*** (09/02/23) 👉 
+***Recent stuff*** 👉 
 
 Something new | > > _ _ _ _ _ _ _ _
 
