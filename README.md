@@ -2,7 +2,7 @@
   <img height=400 width=1000 src='https://github.com/billxbf/billxbf/blob/main/arasaka_bkgd.jpg?raw=true' />
 </div>
 
-***Recent stuff*** 👉 
+***What's New*** 👉 
 
 **ArXplorer** | A recommender of daily papers from arXiv, customized with your Prompt. [[Code]](https://github.com/billxbf/arxplorer)
 
