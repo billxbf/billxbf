@@ -4,7 +4,7 @@
 
 ***What's New*** 👉 
 
-**Something really, really, really cool 🎵 | > > _ _ _ _ _ _ _ _  
+**Something really, really, really cool 🎹** | > > _ _ _ _ _ _ _ _  
 
 **ArXplorer** | A recommender of daily papers from arXiv, customized with your Prompt. [[Code]](https://github.com/billxbf/arxplorer)
 
