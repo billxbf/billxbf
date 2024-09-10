@@ -1,14 +1,13 @@
+
 <div align='center'>
   <img height=400 width=1000 src='https://github.com/billxbf/billxbf/blob/main/arasaka_bkgd.jpg?raw=true' />
 </div>
 
-***👋 Welcome to my space of hobby projects!***
+***Recent Projects*** 👉 
 
-***What's New*** 👉 
+**🎹** | > > > > > > > > _ _  
 
-**🎹** | > > _ _ _ _ _ _ _ _  
-
-**ArXplorer** | A recommender of daily papers from arXiv, customized with your Prompt. [[Code]](https://github.com/billxbf/arxplorer)
+**ArXplorer** | A recommender engine of daily papers from arXiv, customized with your Prompt. [[Code]](https://github.com/billxbf/arxplorer)
 
 **Gentopia & GentPool** | An Agent [[Framework]](https://github.com/Gentopia-AI/Gentopia) & [[Platform]](https://github.com/Gentopia-AI/GentPool) for the hardcore builders.
 
@@ -17,3 +16,8 @@
 
 
 
+<div align='right'>
+  <i>There's a beauty of purity in coding.</i>
+  
+  <i>There's a beauty of convergence in training.</i>
+</div>
