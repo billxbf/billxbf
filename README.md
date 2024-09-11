@@ -18,6 +18,4 @@
 
 <div align='right'>
   <i>There's beauty of purity in coding.</i>
-  
-  <i>There's beauty of convergence in training.</i>
 </div>
