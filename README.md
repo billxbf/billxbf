@@ -17,5 +17,5 @@
 
 
 <div align='right'>
-  <i>There's beauty of purity in coding.</i>
+  <i>There's purity in coding.</i>
 </div>
