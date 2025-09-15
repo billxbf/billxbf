@@ -5,7 +5,7 @@
 
 ***Projects Of Honor*** 👉 
 
-**NanoGPX** | The cleanest collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX) (Under 👷‍♂️)
+**NanoGPX** | Clean collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX) (Under 👷‍♂️)
 
 **ArXplorer** | A recommender engine of daily papers from arXiv, customized with your Prompt. [[Code]](https://github.com/billxbf/arxplorer)
 
