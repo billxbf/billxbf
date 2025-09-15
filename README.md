@@ -3,7 +3,9 @@
   <img height=400 width=1000 src='https://github.com/billxbf/billxbf/blob/main/arasaka_bkgd.jpg?raw=true' />
 </div>
 
-***Recent Projects*** 👉 
+***Projects Of Honor*** 👉 
+
+**NanoGPX** | The cleanest collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX) (Under 👷‍♂️)
 
 **ArXplorer** | A recommender engine of daily papers from arXiv, customized with your Prompt. [[Code]](https://github.com/billxbf/arxplorer)
 
