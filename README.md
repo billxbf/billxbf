@@ -5,7 +5,7 @@
 
 ***I ship 🚢 >*** 
 
-**NanoForge** | Framework Agnostic Agent Rollout Framework for RL. [[Code]](https://github.com/billxbf/NanoForge)
+**NanoForge** | Framework agnostic agent rollout framework for RL. [[Code]](https://github.com/billxbf/NanoForge)
 
 **NanoGPX** | Clean collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX)
 
