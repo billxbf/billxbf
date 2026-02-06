@@ -3,8 +3,6 @@
   <img height=400 width=1000 src='https://github.com/billxbf/billxbf/blob/main/arasaka_bkgd.jpg?raw=true' />
 </div>
 
-***I ship 🚢 >*** 
-
 **NanoForge** | Framework agnostic agent rollout framework for RL. [[Code]](https://github.com/billxbf/NanoForge)
 
 **NanoGPX** | Clean collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX)
