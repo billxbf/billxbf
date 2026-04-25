@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <img height=400 width=700 src='https://github.com/billxbf/billxbf/blob/main/man_in_hall.png?raw=true' />
+  <img height=450 width=700 src='https://github.com/billxbf/billxbf/blob/main/man_in_hall.png?raw=true' />
 </div>
 
 ---
