@@ -5,7 +5,7 @@
 
 ---
 
-🔨 **Polar** | Agent RL on ANY harnesses. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
+⭐ **Polar** | Agent RL on ANY harnesses at scale. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
 
 🧠 **NanoGPX** | Clean collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX)
 
