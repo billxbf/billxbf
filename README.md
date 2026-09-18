@@ -1,7 +1,9 @@
 Welcome!
-I'm a researcher at Nvidia making Agents good.
+I'm a researcher at Nvidia.
 
-Since existing stuff ain't so good, I make most from scratch - data, rl infra, algo, recipe and harness.
+I make Agents good, mostly from ground up - data, rl infra, algo, recipe and harness.
+
+Until they self-improve.
 
 <div align='center'>
   <img height=450 width=700 src='https://github.com/billxbf/billxbf/blob/main/man_in_hall.png?raw=true' />
