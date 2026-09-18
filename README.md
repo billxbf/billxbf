@@ -1,14 +1,25 @@
+Welcome!
+I'm a researcher at Nvidia making Agents good.
+
+Since existing stuff ain't so good, I build them from scratch - data, rl infra, algo, recipe and harness.
 
 <div align='center'>
   <img height=450 width=700 src='https://github.com/billxbf/billxbf/blob/main/man_in_hall.png?raw=true' />
 </div>
 
 ---
+Proud to Present as First Author:
 
-⭐ **Polar** | Agent RL on ANY harnesses at scale. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
+🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for human.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
-🧠 **NanoGPX** | Clean collection of modern LLM recipes (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX)
+🦋 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
 
-🤖 **Gentopia & GentPool** | An Agent [[Framework]](https://github.com/Gentopia-AI/Gentopia) & [[Platform]](https://github.com/Gentopia-AI/GentPool) for the hardcore builders.
+⚡ **FlashREINFOCE** | Solving async staleness, credit assignent and instability for long-run agent RL in single recipe. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
-🚀 **ReWOO** | Discussing token efficiency of LLMs when decoupling reasoning from observations. [[Code]](https://github.com/billxbf/ReWOO) [[Paper]](https://arxiv.org/abs/2305.18323#:~:text=ReWOO%3A%20Decoupling%20Reasoning%20from%20Observations%20for%20Efficient%20Augmented%20Language%20Models,-Binfeng%20Xu%2C%20Zhiyuan&text=Augmented%20Language%20Models%20(ALMs)%20blend,knowledge%20retrieval%20and%20action%20execution.)
+⭐ **Polar** | Agentic RL on ANY harnesses at scale (first in its field). [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server) [[Paper]](https://arxiv.org/pdf/2605.24220)
+
+🧠 **NanoGPX** | Clean collection of modern LLM architectures (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX)
+
+🤖 **Gentopia & GentPool** | An Agent [[Framework]](https://github.com/Gentopia-AI/Gentopia) & [[Platform]](https://github.com/Gentopia-AI/GentPool).
+
+🚀 **ReWOO** | Token-efficient harness via decoupling reasoning from observation. [[Code]](https://github.com/billxbf/ReWOO) [[Paper]](https://arxiv.org/pdf/2305.18323)
