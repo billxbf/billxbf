@@ -1,4 +1,4 @@
-Welcome!
+Welcome 🖐️
 I'm a researcher at Nvidia.
 
 I make Agents good, mostly from ground up - data, rl infra, algo, recipe to harness;
