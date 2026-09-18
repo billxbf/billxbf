@@ -14,7 +14,7 @@ Until they self-improve.
 
 🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for human.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
-🔳 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
+🔳 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/billxbf/Linex)
 
 ⚡ **FlashREINFOCE** | Solving async staleness, credit assignent and instability for long-run agent RL in single recipe. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
