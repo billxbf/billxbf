@@ -1,7 +1,7 @@
 Welcome!
 I'm a researcher at Nvidia.
 
-I make Agents good, mostly from ground up - data, rl infra, algo, recipe and harness.
+I make Agents good, mostly from ground up - data, rl infra, algo, recipe to harness;
 
 Until they self-improve.
 
@@ -14,7 +14,7 @@ Proud to Present as First Author:
 
 🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for human.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
-🦋 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
+🔳 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server)
 
 ⚡ **FlashREINFOCE** | Solving async staleness, credit assignent and instability for long-run agent RL in single recipe. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
