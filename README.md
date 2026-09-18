@@ -1,16 +1,11 @@
 Welcome 🖐️
 I'm a researcher at Nvidia.
 
-I make Agents good from scratch - data, rl infra, algo, recipe to harness;
-
-Until they self-improve.
-
-<div align='center'>
-  <img height=450 width=700 src='https://github.com/billxbf/billxbf/blob/main/man_in_hall.png?raw=true' />
-</div>
+I make Agents good from scratch - data, rl infra, algo, recipe to harness - as I see them as a single line of work.
 
 ---
-*Proud to Present as a First Author:*
+
+*Proud to Present as a First Author* >>
 
 🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for human.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
