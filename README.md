@@ -10,7 +10,7 @@ Until they self-improve.
 </div>
 
 ---
-Proud to Present as First Author:
+*Proud to Present as a First Author:*
 
 🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for human.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
