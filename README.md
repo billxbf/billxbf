@@ -11,7 +11,7 @@ I make Agents good from scratch - data, rl infra, algo, recipe to harness - as I
 
 🔳 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/billxbf/Linex)
 
-⚡ **FlashREINFOCE** | Solving async staleness, credit assignent and instability for long-run agent RL in single recipe. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
+⚡ **FlashREINFOCE** | Solving instability from async RL policy drifts and token credit mis-assignent. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
 ⭐ **Polar** | Agentic RL on ANY harnesses at scale (first in its field). [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server) [[Paper]](https://arxiv.org/pdf/2605.24220)
 
