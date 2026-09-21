@@ -7,7 +7,7 @@ I make Agents good from scratch - data, rl infra, algo, recipe to harness - as I
 
 *Proud to Present as a First Author* >>
 
-🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for human.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
+🎨 **Skill2Env** | Turn any Agent Skill into RL-ready terminal tasks. [[Code]](https://github.com/NVlabs/Skill2Env) Superintelligence from and for humanity.  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
 🔳 **Linex** | Minimally designed All-in-one Infra for modern Agentic RL. [[Code]](https://github.com/billxbf/Linex)
 
