@@ -1,7 +1,7 @@
 Welcome 🖐️
 I'm a research engineer at Nvidia.
 
-I make Agents good from scratch - data, rl infra, algo, recipe to harness - as I see them as a single line of work.
+I make Agents good - from data, rl infra, algo, recipe to harness, collectively optimized as a single problem.
 
 ---
 
