@@ -5,7 +5,7 @@ I make Agents good - from data, rl infra, algo, recipe to harness, collectively 
 
 ---
 
-*Proud to Present as a First Author* >>
+*Proud to Present as First Author* >>
 
 🎨 **Skill2Env** | Superintelligence from and for humanity.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
