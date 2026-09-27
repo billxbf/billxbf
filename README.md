@@ -1,5 +1,7 @@
 Welcome 🖐️
-I train agents at Nvidia. My research covers agentic post-training data, infra, algo, recipe and harness, collectively optimized as a single problem.
+I train agents at Nvidia. 
+
+My research covers agentic post-training data, infra, algo, recipe and harness, collectively optimized as a single problem.
 
 ---
 
