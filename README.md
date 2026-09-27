@@ -9,7 +9,7 @@ I make Agents good - from data, rl infra, algo, recipe to harness, collectively 
 
 🎨 **Skill2Env** | Superintelligence from and for humanity.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
-🔳 **Linex** | The One infra for Agentic RL. [[Code]](https://github.com/billxbf/Linex)
+🔳 **Linex** | The minimal all-in-one infra for Agentic RL. [[Code]](https://github.com/billxbf/Linex)
 
 ⚡ **FlashREINFOCE** | Solving instability from async RL policy drifts and token credit mis-assignent. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
