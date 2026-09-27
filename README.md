@@ -5,7 +5,7 @@ My research covers agentic post-training data, infra, algo, recipe and harness, 
 
 ---
 
-*Proudly Present (as First Author)* >>
+*Proudly Present as First Author* >>
 
 🎨 **Skill2Env** | Superintelligence from and for humanity.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
