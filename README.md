@@ -1,11 +1,9 @@
 Welcome 🖐️
-I'm a research engineer at Nvidia.
-
-I make Agents good - from data, rl infra, algo, recipe to harness, collectively optimized as a single problem.
+I train agents at Nvidia. My research covers agentic post-training data, infra, algo, recipe and harness, collectively optimized as a single problem.
 
 ---
 
-*Proud to Present as First Author* >>
+*Proudly Present (as First Author)* >>
 
 🎨 **Skill2Env** | Superintelligence from and for humanity.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
