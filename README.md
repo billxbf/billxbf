@@ -1,11 +1,11 @@
 Welcome 🖐️
-I train agents at Nvidia. 
+I am an agent trainer at Nvidia. 
 
 My research covers agentic post-training data, infra, algo, recipe and harness, collectively optimized as a single problem.
 
 ---
 
-*Proudly Present as First Author* >>
+*Selected work (as First Author)* >>
 
 🎨 **Skill2Env** | Superintelligence from and for humanity.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
