@@ -7,7 +7,7 @@ My research covers agentic post-training data, infra, algo, recipe and harness, 
 
 *Selected work (as First Author)* >>
 
-🎨 **Skill2Env** | Superintelligence from and for humanity.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
+🎨 **Skill2Env** | Reinforcing agents with collective Skills.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
 🔳 **Linex** | The minimal all-in-one infra for Agentic RL. [[Code]](https://github.com/billxbf/Linex)
 
