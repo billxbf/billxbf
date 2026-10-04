@@ -8,11 +8,11 @@ My research covers agentic post-training data, infra, recipe and harness, collec
 
 🎨 **Skill2Env** | Reinforcing agents with collective Skills.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
-🔳 **linex** | The minimal all-in-one infra for Agentic RL. [[Code]](https://github.com/billxbf/Linex)
+🔳 **linex** | (WIP) The minimal all-in-one infra for Terminal Agent RL. [[Code]](https://github.com/billxbf/Linex)
 
 ⚡ **FlashREINFOCE** | Solving instability from async RL policy drifts and token credit mis-assignent. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
-⭐ **Polar** | Agentic RL on ANY harnesses at scale (first in its field). [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server) [[Paper]](https://arxiv.org/pdf/2605.24220)
+⭐ **Polar** | The first open Agent RL infra solving Any-harness rollout. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server) [[Paper]](https://arxiv.org/pdf/2605.24220)
 
 🧠 **NanoGPX** | Clean collection of modern LLM architectures (RoPE, GQA, RMSNorm, MoE, SSM, etc.) in nanoGPT style. [[Code]](https://github.com/billxbf/nanoGPX)
 
