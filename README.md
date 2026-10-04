@@ -1,6 +1,6 @@
 Welcome! 🖐️
 
-My research covers agentic post-training data, infra, algo, recipe and harness, collectively optimized as a single problem.
+My research covers agentic post-training data, infra, recipe and harness, collectively optimized as a single problem.
 
 ---
 
