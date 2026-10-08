@@ -4,7 +4,7 @@ My research covers agentic post-training data, infra, recipe and harness, collec
 
 ---
 
-*Selected work as First Author* >>
+*Selected work as first-author* >>
 
 🎨 **Skill2Env** | Reinforcing agents with collective Skills.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
