@@ -8,7 +8,7 @@ My research covers agentic post-training data, infra, recipe and harness, collec
 
 🎨 **Skill2Env** | Reinforcing agents with collective Skills.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
-🔳 **linex** | (WIP) The minimal all-in-one infra for Terminal Agent RL. [[Code]](https://github.com/billxbf/Linex)
+🔳 **linex** | The minimal all-in-one infra for Terminal Agent RL. [[Code]](https://github.com/billxbf/Linex)
 
 ⚡ **FlashREINFOCE** | Solving instability from async RL policy drifts and token credit mis-assignent. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
