@@ -1,4 +1,4 @@
-Welcome! 🖐️
+Welcome! This is Binfeng 🖐️
 
 My research covers agentic post-training data, infra, recipe and harness, collectively optimized as a single problem.
 
