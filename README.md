@@ -1,6 +1,6 @@
 Welcome! This is Binfeng 🖐️
 
-My research covers agentic post-training data, infra, recipe and harness, collectively optimized as a single problem.
+My work covers agentic post-training data, infra, recipe and harness.
 
 ---
 
@@ -10,7 +10,7 @@ My research covers agentic post-training data, infra, recipe and harness, collec
 
 🔳 **Linex** | The minimal all-in-one infra for Terminal Agent RL. [[Code]](https://github.com/billxbf/Linex)
 
-⚡ **FlashREINFOCE** | Simple recipe to conquer instability in async RL and credit mis-assignent. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
+⚡ **FlashREINFOCE** | Simple recipe to conquer instability in async RL and false credit assignent. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
 
 ⭐ **Polar** | The first open Agent RL infra solving Any-harness rollout. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server) [[Paper]](https://arxiv.org/pdf/2605.24220)
 
