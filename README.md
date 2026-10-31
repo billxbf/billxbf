@@ -29,6 +29,6 @@ My research and projects center around agentic reinforcement learning infra, dat
 
 🧰 **NAT** | Nvidia nemo agent harness toolkits. [[Repo]](https://github.com/NVIDIA/NeMo-Agent-Toolkit)
 
-🌍 **NemoGym** | Nvidia nemo rl rollout environments. [[Repo]](https://github.com/NVIDIA-NeMo/gym)
+🌍 **NemoGym** | Nvidia nemo RL rollout environments. [[Repo]](https://github.com/NVIDIA-NeMo/gym)
 
 
