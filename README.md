@@ -10,8 +10,6 @@ My research and projects center around agentic reinforcement learning infra, dat
 
 🔳 **linex** | The minimal out-of-box infra for Terminal Agent RL. [[Code]](https://github.com/billxbf/Linex)
 
-⚡ **FlashREINFOCE** | Mitigating false credit assignment and policy drifts in async RL. [[Paper]](https://www.alphaxiv.org/abs/2609.flashreinforce-asynchronous-rl-agentic-models)
-
 ⭐ **Polar** | The first open agent RL infra that solves any-harness rollout. [[Code]](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server) [[Paper]](https://arxiv.org/pdf/2605.24220)
 
 🤖 **Gentopia** | One of the earliest multi-agent [[Framework]](https://github.com/Gentopia-AI/Gentopia) & [[Platform]](https://github.com/Gentopia-AI/GentPool).
