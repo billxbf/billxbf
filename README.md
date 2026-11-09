@@ -19,7 +19,7 @@ My research and projects center around agentic reinforcement learning infra, dat
 🚀 **ReWOO** | Token-efficient harness via decoupling reasoning from observation. [[Code]](https://github.com/billxbf/ReWOO) [[Paper]](https://arxiv.org/pdf/2305.18323)
 
 
-***Contributing:***
+**Contributing:**
 
 🦋 **molt** | Clean RL infra for research, pytorch FSDP (Nemo AutoModel) + vLLM. [[Repo]](https://github.com/NVIDIA-NeMo/labs-molt)
 
