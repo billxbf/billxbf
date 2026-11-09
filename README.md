@@ -4,7 +4,7 @@ My research and projects center around agentic reinforcement learning infra, dat
 
 ---
 
-**Created & Maintaining:**
+***Built / Maintaining:***
 
 🎨 **Skill2Env** | Reinforcing agents with collective Skills.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
 
@@ -19,7 +19,7 @@ My research and projects center around agentic reinforcement learning infra, dat
 🚀 **ReWOO** | Token-efficient harness via decoupling reasoning from observation. [[Code]](https://github.com/billxbf/ReWOO) [[Paper]](https://arxiv.org/pdf/2305.18323)
 
 
-**Contributing:**
+***Contributing:***
 
 🦋 **molt** | Clean RL infra for research, pytorch FSDP (Nemo AutoModel) + vLLM. [[Repo]](https://github.com/NVIDIA-NeMo/labs-molt)
 
