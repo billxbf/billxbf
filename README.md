@@ -1,9 +1,3 @@
-Welcome! 🖐️
-
-My research and projects center around agentic reinforcement learning infra, data and recipe.
-
----
-
 **> Built / Maintaining**
 
 🎨 **Skill2Env** | Reinforcing agents with collective Skills.  [[Code]](https://github.com/NVlabs/Skill2Env)  [[Dataset]](https://hub.harborframework.com/datasets/skill2env/skill2env)
