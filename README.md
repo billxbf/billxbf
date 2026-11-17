@@ -18,7 +18,7 @@
 
 🍙 [THUDM/slime](https://github.com/THUDM/slime) | Clean RL infra designed for scaling, based on Megatron-LM and SGLang. 
 
-🧰 [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | Nvidia agent harness toolkits.
+🧰 [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | Nvidia agent harness engineering SDK.
 
 🌍 [NVIDIA-NeMo/gym](https://github.com/NVIDIA-NeMo/gym) | Nvidia NeMo RL environment & rollout collections. 
 
