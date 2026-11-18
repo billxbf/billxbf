@@ -8,7 +8,7 @@
 
 🧠 [nanoGPX](https://github.com/billxbf/nanoGPX) | Clean collection of modern architectures (RoPE, GQA, RMSNorm, MoE, SSM, etc.) forked from nanoGPT. 
 
-🚀 [ReWOO](https://github.com/billxbf/ReWOO) | Decoupling reasoning from observation for efficient context management.
+🚀 [ReWOO](https://github.com/billxbf/ReWOO) | Decoupling reasoning from observation for efficient agent context management.
 
 **> Contributing**
 
